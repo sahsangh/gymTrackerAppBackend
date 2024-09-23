@@ -1,0 +1,1293 @@
+id,exercise_name,muscle_group,equipment
+1,Barbell Bench Press,Chest,Barbell
+2,Cable Lat Pulldown (Wide Grip),Back,Strength Machine
+3,Dumbbell Lateral Raise,Shoulders,Dumbbell
+4,Machine Leg Extension,Upper Legs,Strength Machine
+5,Cable Tricep Pushdown (Rope),Triceps,Strength Machine
+6,Dumbbell Incline Bench Press,Chest,Dumbbell
+7,Cable Seated Row,Back,Strength Machine
+8,Barbell Squat,Upper Legs,Barbell
+9,Dumbbell Seated Shoulder Press,Shoulders,Dumbbell
+10,Machine Fly,Chest,Strength Machine
+11,Dumbbell Bench Press,Chest,Dumbbell
+12,Machine Leg Press,Upper Legs,Strength Machine
+13,Barbell Deadlift,Back,Barbell
+14,Barbell Incline Bench Press,Chest,Barbell
+15,Barbell Bent-Over Row,Back,Barbell
+16,Dumbbell One-Arm Row,Back,Dumbbell
+17,Barbell Curl,Biceps,Barbell
+18,Dumbbell Alternating Bicep Curl,Biceps,Dumbbell
+19,Machine Seated Leg Curl,Upper Legs,Strength Machine
+20,Pull-Up,Back,Pullup Bar
+21,Machine Leg Curl (Prone),Upper Legs,Strength Machine
+22,Dumbbell Alternating Hammer Curl,Biceps,Dumbbell
+23,Dip,Triceps,Strength Machine
+24,Machine Shoulder Press,Shoulders,Strength Machine
+25,Cable Rope Face Pull,Back,Strength Machine
+26,Dumbbell Fly,Chest,Dumbbell
+27,Cable Tricep Pushdown (V-Bar),Triceps,Strength Machine
+28,Dumbbell Incline Curl,Biceps,Dumbbell
+29,Dumbbell Tricep Extension,Triceps,Dumbbell
+30,Push-Up,Chest,Body Weight
+31,Machine Seated Calf Raise,Lower Legs,Strength Machine
+32,Machine Seated Row,Back,Strength Machine
+33,Machine Reverse Fly,Shoulders,Strength Machine
+34,Dumbbell Shoulder Shrug,Back,Dumbbell
+35,Machine Bench Press,Chest,Strength Machine
+36,Cable Rope Overhead Tricep Extension,Triceps,Strength Machine
+37,Machine Hip Abduction,Upper Legs,Strength Machine
+38,Barbell Military Press,Shoulders,Barbell
+39,Plank,Abs,Body Weight
+40,Cable Cross-Over,Chest,Strength Machine
+41,Dumbbell Hammer Curl,Forearms,Dumbbell
+42,Machine Ab Crunch,Abs,Strength Machine
+43,EZ Bar Curl,Biceps,EZ Curl Bar
+44,Cable Bicep Curl,Biceps,Strength Machine
+45,Barbell Romanian Deadlift,Back,Barbell
+46,Machine Hip Adduction,Upper Legs,Strength Machine
+47,Machine Calf Raise,Lower Legs,Strength Machine
+48,Walking,Cardio,Cardio Machine
+49,Crunch,Abs,Body Weight
+50,Treadmill Running,Cardio,Cardio Machine
+51,Cable Lateral Raise,Shoulders,Strength Machine
+52,Dumbbell Bicep Curl,Biceps,Dumbbell
+53,Back Hyperextension,Back,Strength Machine
+54,Barbell Hip Thrust,Glutes,Barbell
+55,Machine Lat Pulldown,Back,Strength Machine
+56,Cable Shoulder Extension,Back,Strength Machine
+57,Preacher Curl Machine,Biceps,Strength Machine
+58,Calf Press On Leg Press,Lower Legs,Strength Machine
+59,Barbell Shoulder Press,Shoulders,Barbell
+60,Dumbbell Concentration Curl,Biceps,Dumbbell
+61,Dumbbell Incline Fly,Chest,Dumbbell
+62,Dumbbell Lunge,Upper Legs,Dumbbell
+63,Dumbbell Seated Arnold Press,Shoulders,Dumbbell
+64,Leg Raise,Abs,Body Weight
+65,Elliptical Training,Cardio,Cardio Machine
+66,Barbell Preacher Curl,Biceps,Barbell
+67,Cable Lower Chest Raise,Chest,Strength Machine
+68,Barbell Shrug,Back,Barbell
+69,Dumbbell Front Raise,Shoulders,Dumbbell
+70,Machine Incline Chest Press,Chest,Strength Machine
+71,Cable Front Lat Pulldown (Close Grip),Back,Strength Machine
+72,Machine Assisted Pull-Up,Back,Strength Machine
+73,Smith Machine Incline Bench Press,Chest,Strength Machine
+74,Kettlebell Goblet Squat,Upper Legs,Kettlebell
+75,Air Bike,Abs,Body Weight
+76,Dumbbell One-Arm Tricep Kickback,Triceps,Dumbbell
+77,Weight Plate Russian Twist,Abs,Weight Plate
+78,Machine Dip,Triceps,Strength Machine
+79,Cable One-Arm Tricep Pushdown (Reverse Grip),Triceps,Strength Machine
+80,Machine Tricep Extension,Triceps,Strength Machine
+81,Cable Shoulder Extension,Back,Strength Machine
+82,Smith Machine Squat,Upper Legs,Strength Machine
+83,Decline Crunch,Abs,Strength Machine
+84,Dumbbell Side Bend,Abs,Dumbbell
+85,Weighted Pull-Up,Back,Pullup Bar
+86,Cable One-Arm Lat Pulldown,Back,Strength Machine
+87,Barbell Bulgarian Split Squat,Upper Legs,Barbell
+88,Machine Deltoid Raise,Shoulders,Strength Machine
+89,Dumbbell One-Arm Front Raise,Shoulders,Dumbbell
+90,Dumbbell One-Arm Preacher Curl,Biceps,Dumbbell
+91,Dumbbell Incline Bench Row,Back,Dumbbell
+92,Dumbbell Deadlift,Back,Dumbbell
+93,Dumbbell Seated Side Lateral Raise,Shoulders,Dumbbell
+94,Barbell Decline Bench Press,Chest,Barbell
+95,Bench Dip,Triceps,Bench
+96,Dumbbell Hammer Curl (Cross Body),Biceps,Dumbbell
+97,Barbell Tricep Extension (Supine),Triceps,Barbell
+98,Dumbbell Seated Tricep Press,Triceps,Dumbbell
+99,Machine Inner Chest Press,Chest,Strength Machine
+100,EZ Bar Tricep Extension,Triceps,EZ Curl Bar
+101,Dumbbell Reverse Fly,Shoulders,Dumbbell
+102,Machine Calf Press,Lower Legs,Strength Machine
+103,Machine Single-Leg Extension,Upper Legs,Strength Machine
+104,Cable Leg Kickback,Glutes,Strength Machine
+105,Parallel Bar Leg Raise,Abs,Strength Machine
+106,Cable One-Arm Tricep Pushdown,Triceps,Strength Machine
+107,Cable One-Arm Bicep Curl,Biceps,Strength Machine
+108,Smith Machine Shoulder Press,Shoulders,Strength Machine
+109,Smith Machine Bench Press,Chest,Strength Machine
+110,Machine Back Extension,Back,Strength Machine
+111,Barbell Lunge,Upper Legs,Barbell
+112,Barbell Front Squat,Upper Legs,Barbell
+113,Machine Assisted Dip,Triceps,Strength Machine
+114,Weighted Tricep Dip,Triceps,Strength Machine
+115,Dumbbell Stiff-Leg Deadlift,Back,Dumbbell
+116,Dumbbell Bent-Over Reverse Fly,Shoulders,Dumbbell
+117,Dumbbell Tricep Extension (Supine),Triceps,Dumbbell
+118,Stationary Bike,Cardio,Cardio Machine
+119,Indoor Cycling,Cardio,Cardio Machine
+120,Step Machine,Cardio,Cardio Machine
+121,Cable Upright Row,Shoulders,Strength Machine
+122,Sit-Up,Abs,Body Weight
+123,Dumbbell Walking Lunge,Upper Legs,Dumbbell
+124,Dumbbell Upright Row,Shoulders,Dumbbell
+125,Dumbbell Bent-Over Raise,Shoulders,Dumbbell
+126,EZ Bar Decline Close Grip Skull Crusher,Triceps,EZ Curl Bar
+127,Bodyweight Squat,Upper Legs,Body Weight
+128,Leverage Decline Chest Press,Chest,Strength Machine
+129,Barbell Stiff-Leg Deadlift,Back,Barbell
+130,Rowing,Cardio,Cardio Machine
+131,Dumbbell Step-Up,Upper Legs,Dumbbell
+132,Dumbbell Wrist Curl (Palms Up),Forearms,Dumbbell
+133,Cable Reverse Fly,Shoulders,Strength Machine
+134,Cable One-Arm Seated Row,Back,Strength Machine
+135,Dumbbell Reverse Lunge,Upper Legs,Dumbbell
+136,Machine Reverse Lat Pulldown (Close Grip),Back,Strength Machine
+137,Dumbbell One-Arm Tricep Extension,Triceps,Dumbbell
+138,Barbell Tricep Extension,Triceps,Barbell
+139,Cable Rope High Pulley Tricep Extension,Triceps,Strength Machine
+140,Weighted Crunch,Abs,Weight Plate
+141,Parallel Bar Hip Raise,Abs,Strength Machine
+142,Dumbbell Zottman Curl,Biceps,Dumbbell
+143,Leverage Machine High Row,Back,Strength Machine
+144,Cable One-Arm Lateral Raise,Shoulders,Strength Machine
+145,Barbell Reverse Curl,Forearms,Barbell
+146,Machine Seated Tricep Dip,Triceps,Strength Machine
+147,Reverse Crunch,Abs,Body Weight
+148,Dumbbell Bulgarian Split Squat,Upper Legs,Dumbbell
+149,Cable Tricep Kickback,Triceps,Strength Machine
+150,Dumbbell Decline Bench Press,Chest,Dumbbell
+151,Cable External Rotation,Shoulders,Strength Machine
+152,Alternating Heel Touch,Abs,Body Weight
+153,Leverage Chest Press,Chest,Strength Machine
+154,Barbell Skull Crusher (Reverse Grip),Triceps,Barbell
+155,Machine Leg Press (Wide Stance),Upper Legs,Strength Machine
+156,Bodyweight Lunge,Upper Legs,Body Weight
+157,Bodyweight Calf Raise,Lower Legs,Body Weight
+158,Cable Front Raise,Shoulders,Strength Machine
+159,Cable Deltoid Raise,Shoulders,Strength Machine
+160,Barbell Ab Rollout (Kneeling),Abs,Barbell
+161,Barbell Glute Bridge,Glutes,Barbell
+162,Barbell Deep Squat,Upper Legs,Barbell
+163,Hanging Knee Raise,Abs,Pullup Bar
+164,Running,Cardio,Body Weight
+165,Cable Wood Chop,Abs,Strength Machine
+166,Bench Weighted Decline Crunch,Abs,Bench
+167,Dumbbell Alternating Incline Curl,Biceps,Dumbbell
+168,Dumbbell Tricep Extension (Supine),Triceps,Dumbbell
+169,Leverage Shoulder Press,Shoulders,Strength Machine
+170,Side Plank,Abs,Body Weight
+171,Cable One-Arm Tricep Pushdown (Reverse Grip),Triceps,Strength Machine
+172,Machine Single-Leg Press,Glutes,Strength Machine
+173,Smith Machine Shrug,Back,Strength Machine
+174,Barbell Bent-Over Row (Reverse Grip),Back,Barbell
+175,Cable Bicep Curl (Close Grip),Biceps,Strength Machine
+176,Dumbbell Seated One-Arm Tricep Extension,Triceps,Dumbbell
+177,Dumbbell Seated Bent-Over Reverse Fly,Shoulders,Dumbbell
+178,Dumbbell Wrist Curl (Palms Down),Forearms,Dumbbell
+179,Cable Reverse Curl,Biceps,Strength Machine
+180,Cable Incline Fly,Chest,Strength Machine
+181,Dumbbell Alternating Seated Curl,Biceps,Dumbbell
+182,Barbell Good Morning,Back,Barbell
+183,Weight Plate Front Raise,Shoulders,Weight Plate
+184,Dumbbell Tricep Kickback,Triceps,Dumbbell
+185,Oblique Crunch,Abs,Body Weight
+186,Machine Kneeling Leg Curl,Upper Legs,Strength Machine
+187,Barbell Military Press (Seated),Shoulders,Barbell
+188,Cable Rear Pulldown (Wide Grip),Back,Strength Machine
+189,EZ Bar Preacher Curl (Close Grip),Biceps,EZ Curl Bar
+190,Bridge,Glutes,Body Weight
+191,Dumbbell Romanian Deadlift,Upper Legs,Dumbbell
+192,Dumbbell Alternating Front Raise,Shoulders,Dumbbell
+193,Kettlebell Single-Leg Deadlift,Upper Legs,Kettlebell
+194,Mountain Climber,Upper Legs,Body Weight
+195,Machine Lat Pulldown (Reverse Grip),Back,Strength Machine
+196,Barbell Wrist Curl (Posterior),Forearms,Barbell
+197,Cable High Pulley Tricep Extension,Triceps,Strength Machine
+198,Dumbbell Spider Curl,Biceps,Dumbbell
+199,Glute Kickback,Glutes,Body Weight
+200,Dumbbell Rear Delt Row,Back,Dumbbell
+201,Dumbbell Arnold Press,Shoulders,Dumbbell
+202,Single-Leg Calf Raise,Lower Legs,Body Weight
+203,Dumbbell Plie Squat,Upper Legs,Dumbbell
+204,Stability Ball Crunch,Abs,Exercise Ball
+205,EZ Bar Curl (Reverse Grip),Forearms,EZ Curl Bar
+206,Cable Internal Rotation,Shoulders,Strength Machine
+207,Jump Rope,Cardio,Other
+208,Dumbbell Incline Hammer Curl,Biceps,Dumbbell
+209,Barbell Push Press,Shoulders,Barbell
+210,Barbell Row,Back,Barbell
+211,Prisoner Squat,Upper Legs,Body Weight
+212,Machine Reverse T Bar Row,Back,Strength Machine
+213,Cable One-Arm Reverse Fly,Shoulders,Strength Machine
+214,Barbell Front Raise,Shoulders,Barbell
+215,Seated Leg Tuck,Abs,Bench
+216,Dumbbell Seated Curl,Biceps,Dumbbell
+217,Barbell Sumo Deadlift,Back,Barbell
+218,Machine Single-Leg Press,Upper Legs,Strength Machine
+219,Cable Hip Abduction,Glutes,Strength Machine
+220,Barbell Bicep Curl (Wide Grip),Biceps,Barbell
+221,Machine Single-Leg Curl,Upper Legs,Strength Machine
+222,Cable Upper Chest Crossover,Chest,Strength Machine
+223,Machine Iso Lateral High Row,Back,Strength Machine
+224,Bird Dog,Abs,Body Weight
+225,Push-Up (Close Hand),Chest,Body Weight
+226,Pull-Up (Hammer Grip),Back,Pullup Bar
+227,Dumbbell Seated Hammer Curl,Biceps,Dumbbell
+228,Jump Squat,Upper Legs,Body Weight
+229,Dumbbell Deep Push-Up,Chest,Dumbbell
+230,Smith Machine Bent-Over Row,Back,Strength Machine
+231,Bench Hip Thrust,Abs,Bench
+232,Machine Lateral Shoulder Raise,Shoulders,Strength Machine
+233,Cable Elevated Row,Back,Strength Machine
+234,Dumbbell Bench Press (Palms in),Chest,Dumbbell
+235,V-Up,Abs,Body Weight
+236,Leg Pull-In,Abs,Body Weight
+237,Scissor Kick,Abs,Body Weight
+238,Machine Leg Press (Narrow Stance),Upper Legs,Strength Machine
+239,Kettlebell One-Arm Swing,Upper Legs,Kettlebell
+240,Dumbbell Reverse Bicep Curl,Biceps,Dumbbell
+241,Machine Leg Press (Narrow Stance),Upper Legs,Strength Machine
+242,Dumbbell Press (Close Grip),Triceps,Dumbbell
+243,Machine Vertical Row (Close Grip),Back,Strength Machine
+244,Cable Rope Lat Pulldown,Back,Strength Machine
+245,Weighted Side Bend,Abs,Weight Plate
+246,Tricep Push-Up,Triceps,Body Weight
+247,Cable Pulldown (Underhand),Back,Strength Machine
+248,Cable Shrug,Back,Strength Machine
+249,Leverage Machine Shrug,Back,Strength Machine
+250,Dumbbell Incline Tricep Extension,Triceps,Dumbbell
+251,Barbell Wrist Curl (Palms Up),Forearms,Barbell
+252,Recumbent Bike,Cardio,Cardio Machine
+253,Dumbbell Hamstring Curl,Upper Legs,Dumbbell
+254,Machine Bicep Curl (Reverse Grip),Biceps,Strength Machine
+255,Cable Straight Arm Crossover,Chest,Strength Machine
+256,Weight Plate Rotation,Abs,Weight Plate
+257,Cable Rope Seated Row,Back,Strength Machine
+258,Bench Push-Up,Chest,Bench
+259,Dumbbell Alternating Preacher Curl,Biceps,Strength Machine
+260,Machine Leg Press (Wide Stance),Upper Legs,Strength Machine
+261,Cable One-Arm Tricep Extension,Triceps,Strength Machine
+262,Hack Calf Raise,Lower Legs,Strength Machine
+263,Cable One-Arm Row,Back,Strength Machine
+264,Dumbbell Incline Bench Press (Hammer Grip),Chest,Dumbbell
+265,Machine Squat,Upper Legs,Strength Machine
+266,Cable Grip Lat Pulldown (Narrow Grip),Back,Strength Machine
+267,Cable Dual Overhead Curl,Biceps,Strength Machine
+268,Elevated Push-Up,Chest,Bench
+269,Cable Pull Through,Glutes,Strength Machine
+270,Dumbbell One-Arm Lateral Raise,Shoulders,Dumbbell
+271,Dumbbell Seated Wrist Curl,Forearms,Dumbbell
+272,Cable One-Arm High Curl,Biceps,Strength Machine
+273,Superman,Back,Body Weight
+274,Smith Machine Split Squat,Glutes,Strength Machine
+275,Machine Assisted Chin-Up,Back,Strength Machine
+276,Glute Kickback,Glutes,Body Weight
+277,EZ Bar Close Grip Curl,Biceps,EZ Curl Bar
+278,Cable Crunch,Abs,Strength Machine
+279,Cable Pullover (Supine),Back,Strength Machine
+280,Cross Body Crunch,Abs,Body Weight
+281,Dumbbell Alternating Deltoid Raise,Shoulders,Dumbbell
+282,Dumbbell Decline Fly,Chest,Dumbbell
+283,EZ Bar French Press,Triceps,EZ Curl Bar
+284,Jackknife Sit-Up,Abs,Body Weight
+285,Smith Machine Bulgarian Split Squat,Upper Legs,Strength Machine
+286,Push-Up (Wide Hand),Chest,Body Weight
+287,Dumbbell Rear Deltoid Row,Shoulders,Dumbbell
+288,Cable Pallof Press with Rotation,Abs,Strength Machine
+289,Arm Circles,Shoulders,Body Weight
+290,Machine Single-Leg Curl,Upper Legs,Strength Machine
+291,Dumbbell Alternating Tricep Kickback,Triceps,Dumbbell
+292,Dumbbell Wood Chop,Abs,Dumbbell
+293,Smith Machine Deadlift,Back,Strength Machine
+294,Cable Side Bend,Abs,Strength Machine
+295,Barbell Spider Curl,Biceps,Barbell
+296,Dumbbell Rotational Curl,Biceps,Dumbbell
+297,Single-Leg Glute Bridge,Glutes,Body Weight
+298,Cable Standing Curl,Biceps,Strength Machine
+299,Hack Squat (Reverse Position),Upper Legs,Strength Machine
+300,Barbell Seated Press,Shoulders,Barbell
+301,Smith Machine Reverse Calf Raise,Lower Legs,Strength Machine
+302,Toe Touches,Abs,Body Weight
+303,Cable Reverse Crossover,Back,Strength Machine
+304,Bodyweight Side Lunge,Upper Legs,Body Weight
+305,Barbell Seated Tricep Extension,Triceps,Barbell
+306,Bench Leg Raise (Supine),Abs,Bench
+307,Dual Cable Triceps Extension,Triceps,Strength Machine
+308,Bodyweight Rear Lunge,Upper Legs,Body Weight
+309,Dumbbell Preacher Curl,Biceps,Dumbbell
+310,Machine Inverted Row,Back,Strength Machine
+311,Cable Wrist Curl,Forearms,Strength Machine
+312,Dumbbell Seated Calf Raise,Lower Legs,Dumbbell
+313,Bench Crunch,Abs,Bench
+314,Cable Rope Deltoid Row,Shoulders,Strength Machine
+315,Barbell Rack Pull,Back,Barbell
+316,Side Bridge,Abs,Body Weight
+317,Kettlebell Swing,Upper Legs,Kettlebell
+318,Barbell Curl (Close Grip),Biceps,Barbell
+319,Smith Machine Upright Row,Shoulders,Strength Machine
+320,Machine Hammer Curl,Biceps,Strength Machine
+321,Dumbbell One-Arm Shoulder Press,Shoulders,Dumbbell
+322,Flutter Kick,Glutes,Body Weight
+323,Cable Upper Row,Back,Strength Machine
+324,Cable Standing Leg Curl,Upper Legs,Strength Machine
+325,Dumbbell Tate Press,Triceps,Dumbbell
+326,Dumbbell Inner Bicep Curl,Biceps,Dumbbell
+327,Machine Single-Leg Calf Press,Lower Legs,Strength Machine
+328,Dynamic Chest Stretch,Chest,Body Weight
+329,Smith Machine Bench Press (Close Grip),Triceps,Strength Machine
+330,Dumbbell Bench Squat,Upper Legs,Dumbbell
+331,Cable Standing Row,Back,Strength Machine
+332,Dumbbell Bicep Curl (Reverse Grip),Forearms,Dumbbell
+333,Kettlebell Front Squat,Upper Legs,Kettlebell
+334,Cable Incline Bicep Curl,Biceps,Strength Machine
+335,EZ Bar Incline Tricep Extension,Triceps,EZ Curl Bar
+336,Cable One-Arm Tricep Pushdown (Reverse Grip),Triceps,Strength Machine
+337,Band Cross-Over,Chest,Bands
+338,Aerobics,Cardio,Other
+339,Weighted Hanging Knee Raise,Abs,Pullup Bar
+340,Weighted Trunk Rotation,Abs,Weight Plate
+341,Cat Stretch,Back,Body Weight
+342,Barbell Calf Raise,Lower Legs,Barbell
+343,Dumbbell One-Arm Incline Lateral Raise,Shoulders,Dumbbell
+344,Barbell Overhead Tricep Extension,Triceps,Barbell
+345,Machine Lat Pulldown (Reverse Grip),Back,Strength Machine
+346,Bodyweight Walking Lunge,Upper Legs,Body Weight
+347,Barbell Incline Bench Row,Back,Barbell
+348,Barbell Single-Leg Squat,Upper Legs,Barbell
+349,Dumbbell Prone Incline Shrug,Back,Dumbbell
+350,Sumo Squat,Upper Legs,Barbell
+351,Barbell Bench Press (Wide Grip),Chest,Barbell
+352,Shoulder Stretch,Shoulders,Body Weight
+353,Cable Flat Bench Fly,Chest,Strength Machine
+354,Dumbbell Pullover on Stability Ball,Back,Dumbbell
+355,Decline Bench Weighted Twist,Abs,Weight Plate
+356,Yoga,Cardio,Body Weight
+357,Smith Machine Decline Bench Press,Chest,Strength Machine
+358,Cable Rear Lateral Raise,Shoulders,Strength Machine
+359,Dumbbell Bent-Over Row (Palm in),Back,Dumbbell
+360,Quadricep Stretch,Upper Legs,Body Weight
+361,Dumbbell Around the World,Chest,Dumbbell
+362,Sissy Squat,Upper Legs,Body Weight
+363,Cable Incline Press,Chest,Strength Machine
+364,Donkey Calf Raise,Lower Legs,Bench
+365,Machine Assisted Pull-Up (Hammer Grip),Back,Strength Machine
+366,Barbell Behind the Back Shrug,Back,Barbell
+367,Rotational Crunch,Abs,Body Weight
+368,Machine One-Arm Pulldown,Back,Strength Machine
+369,Dumbbell Lateral Raise (Prone),Shoulders,Dumbbell
+370,Dumbbell Seated Alternating Hammer Curl,Biceps,Dumbbell
+371,Barbell Seated Calf Raise,Lower Legs,Barbell
+372,Cable Kneeling Crunch,Abs,Strength Machine
+373,Tricep Stretch,Triceps,Body Weight
+374,Bodyweight Wall Squat,Upper Legs,Body Weight
+375,Wrist Roller,Forearms,Other
+376,Cable Decline Chest Fly,Chest,Strength Machine
+377,Forearm Plank with Hip Abduction,Abs,Body Weight
+378,Dumbbell Seated Front Raise,Shoulders,Dumbbell
+379,Dumbbell Hammer Shoulder Press,Shoulders,Dumbbell
+380,Dumbbell Cuban Press,Shoulders,Dumbbell
+381,Weight Plate Shrug,Back,Weight Plate
+382,Reverse Hyper (Flat Bench),Glutes,Bench
+383,Dead Bug,Abs,Body Weight
+384,Barbell Rear Military Press,Shoulders,Barbell
+385,One-Arm Hang,Back,Pullup Bar
+386,Cable One-Arm Tricep Extension,Triceps,Strength Machine
+387,Dumbbell Supinated One-Arm Wrist Curl,Forearms,Dumbbell
+388,Machine Inverted Row,Back,Strength Machine
+389,EZ Bar Tricep Extension (Close Grip),Triceps,EZ Curl Bar
+390,Barbell Bicep Drag Curl,Biceps,Barbell
+391,Barbell Kneeling Wrist Curl (Palms Up),Forearms,Barbell
+392,Barbell Ab Rollout,Abs,Barbell
+393,Cable Pulldown Bicep Curl,Biceps,Strength Machine
+394,Dumbbell Decline Press,Chest,Dumbbell
+395,Decline Bench Leg Raise,Abs,Bench
+396,Dumbbell Upright Row,Shoulders,Dumbbell
+397,Dumbbell Shoulder Raise,Shoulders,Dumbbell
+398,Hack Squat (Narrow Stance),Upper Legs,Strength Machine
+399,Barbell Pullover,Back,Barbell
+400,Glute Stretch,Glutes,Body Weight
+401,Boxing,Cardio,Other
+402,Cable Seated Crunch,Abs,Strength Machine
+403,Dumbbell Shoulder Abduction,Shoulders,Dumbbell
+404,Smith Machine Stiff-Leg Deadlift,Back,Strength Machine
+405,Dumbbell Seated Press (Palms In),Shoulders,Dumbbell
+406,Bodyweight Step-Up,Upper Legs,Bench
+407,Kettlebell Sumo High Pull,Shoulders,Kettlebell
+408,Barbell Clean and Jerk,Shoulders,Barbell
+409,Barbell Hack Squat,Upper Legs,Barbell
+410,Hip Stretch,Back,Body Weight
+411,Parallel Bar Hip Flexion,Abs,Strength Machine
+412,Kneeling Hip Flexor,Upper Legs,Body Weight
+413,Barbell Wrist Curl (Palms Down),Forearms,Barbell
+414,Smith Machine Single-Leg Calf Raise,Lower Legs,Strength Machine
+415,Cobra,Back,Body Weight
+416,Dumbbell One-Arm Bench Press,Chest,Dumbbell
+417,Dumbbell Seated Alternating Shoulder Press,Shoulders,Dumbbell
+418,Dumbbell Preacher Hammer Curl,Biceps,Dumbbell
+419,Extended Arm Child Pose,Abs,Body Weight
+420,Dragon Flag,Abs,Bench
+421,Barbell Squat (Wide Stance),Upper Legs,Barbell
+422,Cable Preacher Curl,Biceps,Strength Machine
+423,Band Reverse Fly,Shoulders,Bands
+424,Abdominal Pendulum,Abs,Body Weight
+425,Hex Bar Deadlift,Back,
+426,Cable Shoulder Press,Shoulders,Strength Machine
+427,Dumbbell One-Arm Wrist Curl (Pronated),Forearms,Dumbbell
+428,Dumbbell External Rotation,Shoulders,Dumbbell
+429,Barbell Clean Deadlift,Back,Barbell
+430,Dumbbell One-Arm Bicep Curl,Biceps,Dumbbell
+431,Dumbbell Incline Tricep Extension,Triceps,Dumbbell
+432,Chin-Up (Close Grip),Back,Pullup Bar
+433,Road Cycling,Cardio,Other
+434,Barbell Rear Delt Row,Shoulders,Barbell
+435,Dumbbell Incline Bench Press (Palms in),Chest,Dumbbell
+436,Bicep Stretch,Biceps,Body Weight
+437,Barbell Kneeling Wrist Curl (Palms Down),Forearms,Barbell
+438,Kettlebell Figure Eight,Abs,Kettlebell
+439,Machine Vertical Row (Reverse Grip),Back,Strength Machine
+440,Smith Machine Rear Shoulder Press,Shoulders,Strength Machine
+441,Burpee,Cardio,Body Weight
+442,Pelvic Tilt to Glute Bridge,Back,Body Weight
+443,Swimming,Cardio,Body Weight
+444,Barbell Romanian Deadlift From Deficit,Back,Barbell
+445,Cable Reverse Grip Tricep Extension,Triceps,Strength Machine
+446,Box Jump Multiple Response,Upper Legs,
+447,Weight Plate Reverse Curl,Biceps,Weight Plate
+448,Seated Floor Hamstring Stretch,Upper Legs,Body Weight
+449,Barbell Bench Squat,Upper Legs,Barbell
+450,Wall Calf Stretch,Lower Legs,Body Weight
+451,Dumbbell Bench Press (Reverse Grip),Chest,Dumbbell
+452,Weighted Bench Dip,Triceps,Bench
+453,Barbell Clean,Upper Legs,Barbell
+454,Dumbbell Incline Fly With A Twist,Chest,Dumbbell
+455,Cable Drag Curl,Biceps,Strength Machine
+456,Jumping Jacks,Cardio,Body Weight
+457,Barbell Preacher Curl (Overhand),Forearms,Barbell
+458,Decline Bench Rotational Sit-Up,Abs,Bench
+459,Band Lateral Raise,Shoulders,Bands
+460,Dumbbell One-Arm Hammer Curl,Biceps,Dumbbell
+461,Single-Leg Squat,Upper Legs,Body Weight
+462,Weight Plate Neck Flexion (Supine),Shoulders,Weight Plate
+463,Cable Behind the Back Wrist Curl,Forearms,Strength Machine
+464,Barbell JM Press,Triceps,Barbell
+465,Tuck Crunch,Abs,Body Weight
+466,Stability Ball Trunk Rotation,Abs,Exercise Ball
+467,Cable Oblique Crunch,Abs,Strength Machine
+468,Kettlebell Row,Back,Kettlebell
+469,Medicine Ball Overhead Slam,Abs,
+470,Dumbbell Farmers Carry,Upper Legs,Dumbbell
+471,Barbell Drag Curl,Biceps,Barbell
+472,Machine Seated Single-Leg Calf Raise,Lower Legs,Strength Machine
+473,Rear Pull-Up (Wide Grip),Back,Pullup Bar
+474,Plyo Push-Up,Chest,Body Weight
+475,Dumbbell Jump Squat,Upper Legs,Dumbbell
+476,Barbell Rear Press,Shoulders,Barbell
+477,Cable Deadlift,Back,Strength Machine
+478,Dumbbell Incline Spider Curl,Biceps,Dumbbell
+479,Machine Single-Leg Press,Upper Legs,Strength Machine
+480,Barbell Push Press Behind the Neck,Shoulders,Barbell
+481,Scorpion,Back,Body Weight
+482,Band Alternating Bicep Curl,Biceps,Bands
+483,Dumbbell Incline Row (Reverse Grip),Back,Dumbbell
+484,Smith Machine Good Morning,Back,Strength Machine
+485,90/90 Hamstring Stretch,Upper Legs,Body Weight
+486,Dumbbell One-Arm Preacher Hammer Curl,Biceps,Strength Machine
+487,Frog Sit-Up,Abs,Body Weight
+488,Dumbbell Seated Wrist Curl (Palms Down),Forearms,Dumbbell
+489,Dumbbell Bent-Over Row (Palms in),Back,Dumbbell
+490,Dumbbell Bent-Over Tricep Extension,Triceps,Dumbbell
+491,Cable Bent-Over Lateral Pulley,Shoulders,Strength Machine
+492,Handstand Push-Up,Shoulders,Body Weight
+493,World's Greatest Stretch,Upper Legs,Body Weight
+494,Barbell Lateral Lunge,Glutes,Barbell
+495,Cable Tricep Kickback,Triceps,Strength Machine
+496,Machine Unilateral Row,Back,Strength Machine
+497,Barbell One-Arm Row,Back,Barbell
+498,Kettlebell Pistol Squat,Upper Legs,Kettlebell
+499,Single-Leg Bench Dip,Triceps,Bench
+500,Machine Landmine Row (Reverse Grip),Back,Strength Machine
+501,Weight Plate High Front Raise,Shoulders,Weight Plate
+502,Pilates,Cardio,Body Weight
+503,Dumbbell Front Incline Raise,Shoulders,Dumbbell
+504,Stability Ball Pull-In,Abs,Exercise Ball
+505,Cable Rope Pullover (Supine),Chest,Strength Machine
+506,Bent Knee Hip Raise,Abs,Body Weight
+507,Pendlay Row,Back,Barbell
+508,Kettlebell Thruster,Shoulders,Kettlebell
+509,Split Jump,Upper Legs,Body Weight
+510,Decline Bench Ab Reach,Abs,Bench
+511,Dumbbell Decline Tricep Extension,Triceps,Dumbbell
+512,Dumbbell Deltoid Raise,Shoulders,Dumbbell
+513,Knees to Chest Hug,Back,Body Weight
+514,Barbell Incline Bench Press (Close Grip),Triceps,Barbell
+515,Push-Up to Side Plank,Chest,Body Weight
+516,Stability Ball Hamstring Curl to Bridge,Glutes,Exercise Ball
+517,Bench Leg Pull-In,Abs,Bench
+518,Cable Reverse Wood Chop,Abs,Strength Machine
+519,Seated Bench Leg Pull-In,Abs,Bench
+520,Cable V-Bar Row,Back,Strength Machine
+521,Dumbbell One-Arm Zottman Preacher Curl,Biceps,Dumbbell
+522,Dumbbell High Curl,Biceps,Dumbbell
+523,Split Squat,Upper Legs,Body Weight
+524,Iron Cross Stretch,Glutes,Body Weight
+525,Cable Rope Row to Neck,Shoulders,Strength Machine
+526,Dumbbell Alternating Kickback,Triceps,Dumbbell
+527,Dumbbell Incline Hammer Curl,Biceps,Dumbbell
+528,Dumbbell Incline Alternating Hammer Curl,Biceps,Dumbbell
+529,Dumbbell Alternating Tricep Extension,Triceps,Dumbbell
+530,Dumbbell Wrist Curl (Neutral Grip),Forearms,Dumbbell
+531,Kettlebell Renegade Row,Back,Kettlebell
+532,Chest and Shoulder Stretch,Chest,Other
+533,Dumbbell Seated Single-Leg Calf Raise,Lower Legs,Dumbbell
+534,Toe Touch Stretch,Upper Legs,Body Weight
+535,Dumbbell Alternating Arnold Press,Shoulders,Dumbbell
+536,Barbell Tricep Press (Supine),Triceps,Barbell
+537,EZ Bar Bent-Over Row (Reverse Grip),Back,EZ Curl Bar
+538,Straddle Stretch,Upper Legs,Body Weight
+539,Hanging Knee Raise Rotation,Abs,Pullup Bar
+540,Cable Seated Row to Neck,Shoulders,Strength Machine
+541,Alternating Floor Leg Raise,Abs,Body Weight
+542,Plank with Shoulder Taps,Abs,Body Weight
+543,Cable Incline Pulldown (Supine),Back,Strength Machine
+544,Barbell Seated Twist,Abs,Barbell
+545,Cable Rotation (Stability Ball),Abs,Strength Machine
+546,Cable Bicep Curl (Supine),Biceps,Strength Machine
+547,Dumbbell Reverse Wrist Curl,Forearms,Dumbbell
+548,Dumbbell One-Arm Reverse Curl,Forearms,Dumbbell
+549,Dumbbell Cross Tricep Extension (Supine),Triceps,Dumbbell
+550,Kettlebell One-Arm Row,Back,Kettlebell
+551,Downward Facing Dog,Abs,Body Weight
+552,Dumbbell Single-Leg Squat,Upper Legs,Dumbbell
+553,Barbell Seated Good Morning,Back,Barbell
+554,Weight Plate Neck Extension (Prone),Shoulders,Weight Plate
+555,Barbell Zercher Squat,Upper Legs,Barbell
+556,Dumbbell Alternating Press,Shoulders,Dumbbell
+557,Cable Crunch Kneeling Rotation,Abs,Strength Machine
+558,Dumbbell Tricep Extension (Supine),Triceps,Dumbbell
+559,EZ Bar Seated Curl (Close Grip),Biceps,EZ Curl Bar
+560,Dumbbell Seated Alternating Arnold Press,Shoulders,Dumbbell
+561,Dumbbell Rotational Row,Back,Dumbbell
+562,Barbell Step-Up,Upper Legs,Barbell
+563,Barbell Tricep Press (Close Grip),Triceps,Barbell
+564,Dumbbell Single-Leg Cobra,Abs,Dumbbell
+565,Standing Trunk Rotation,Back,Body Weight
+566,Dumbbell One-Arm Incline Chest Press,Chest,Dumbbell
+567,Dumbbell One-Arm Incline Curl,Biceps,Dumbbell
+568,Smith Machine Front Squat,Upper Legs,Strength Machine
+569,Abdominal Hip Roll,Abs,Body Weight
+570,Dumbbell Seated Dublin Press,Shoulders,Dumbbell
+571,Cable One-Arm Reverse Curl,Forearms,Strength Machine
+572,Hamstring Stretch,Upper Legs,Body Weight
+573,Stability Ball Dumbbell Sit-Up,Abs,Exercise Ball
+574,Cable Seated Bicep Curl,Biceps,Strength Machine
+575,Dumbbell Seated Front Raise (Hammer),Shoulders,Dumbbell
+576,Leg Swing,Upper Legs,Body Weight
+577,Back Extension (Prone),Back,Body Weight
+578,Side Step-Up,Upper Legs,Bench
+579,Barbell Reverse Bench Press (Wide Grip),Chest,Barbell
+580,Barbell Landmine Kneeling One-Arm Press,Shoulders,Barbell
+581,Band Shoulder Press,Shoulders,Bands
+582,Weight Plate Hand Squeeze,Forearms,Weight Plate
+583,Upward Facing Dog,Back,Body Weight
+584,Cable Wrist Curl (Reverse Grip),Forearms,Strength Machine
+585,Trap Bar Shrugs,Back,
+586,Reverse Lunge Crossover,Back,Body Weight
+587,Kettlebell One-Arm Snatch,Shoulders,Kettlebell
+588,Decline Reverse Crunch,Abs,Bench
+589,Dumbbell Seated One-Arm Supported Tricep Extension,Triceps,Dumbbell
+590,Ab Roll,Abs,Body Weight
+591,Cable Decline Press,Chest,Strength Machine
+592,Stability Ball Weighted Sit-Up,Abs,Exercise Ball
+593,Cable One-Arm Rotational Row,Back,Strength Machine
+594,Dumbbell Alternating Lateral Raise,Shoulders,Dumbbell
+595,Wide Leg Stretch,Abs,Body Weight
+596,Crunch with Hands Overhead,Abs,Body Weight
+597,Lateral Stretch,Abs,Body Weight
+598,Barbell Kneeling Squat,Glutes,Barbell
+599,Alternating Leg Bridge,Abs,Body Weight
+600,Kneeling Forearm Stretch,Forearms,Body Weight
+601,Field Sports,Cardio,Other
+602,Smith Machine Bench Press (Wide Grip),Chest,Strength Machine
+603,Box Jumps,Upper Legs,
+604,Cable One-Arm Preacher Curl,Biceps,Strength Machine
+605,Assisted Hyperextension,Back,Body Weight
+606,Cable Lying Tricep Extension,Triceps,Strength Machine
+607,Barbell Side Split Squat,Upper Legs,Barbell
+608,Barbell Hang Clean,Upper Legs,Barbell
+609,Cable Rope Seated Crossover Row,Back,Strength Machine
+610,Dumbbell Decline Bench Lunge,Upper Legs,Dumbbell
+611,Dumbbell One-Arm Tricep Kickback,Triceps,Dumbbell
+612,Band Squat,Upper Legs,Bands
+613,Dumbbell Lateral Raise (Side-Lying),Shoulders,Dumbbell
+614,Side Jacknife,Abs,Body Weight
+615,Dumbbell Lateral Lunge with Bicep Curl,Upper Legs,Dumbbell
+616,Kettlebell Alternating Shoulder Press,Shoulders,Kettlebell
+617,Smith Machine Toe Raise,Lower Legs,Strength Machine
+618,Dynamic Back Stretch,Back,Body Weight
+619,Cable Incline Tricep Extension,Triceps,Strength Machine
+620,Windshield Wipers,Abs,Pullup Bar
+621,Barbell Snatch Deadlift,Back,Barbell
+622,Band Upright Row,Shoulders,Bands
+623,Cross-Leg Side Stretch (Supine),Abs,Body Weight
+624,Barbell Overhead Front Raise,Shoulders,Barbell
+625,Hip Adduction,Glutes,Body Weight
+626,Cable One-Arm Tricep Extension,Triceps,Strength Machine
+627,Kettlebell Alternating Floor Press,Chest,Kettlebell
+628,Back Bend,Chest,Body Weight
+629,Decline Oblique Crunch,Abs,Bench
+630,Cable Tricep Kickback (Reverse Grip),Triceps,Strength Machine
+631,Leg Raise with Hip Thrust,Abs,Bench
+632,Ab Draw Leg Slide,Abs,Body Weight
+633,Back Stretch,Back,Body Weight
+634,Cable Seated Shoulder Press,Shoulders,Strength Machine
+635,Kettlebell Windmill,Abs,Kettlebell
+636,Dumbbell Concentration Curl on Stability Ball,Biceps,Dumbbell
+637,Hanging Pike,Abs,Pullup Bar
+638,Plank with Alternating Knee Drive,Abs,Body Weight
+639,Cable Seated Overhead Curl,Biceps,Strength Machine
+640,Kettlebell One-Arm Push Press,Shoulders,Kettlebell
+641,Shoulder Rotation,Shoulders,Body Weight
+642,Hip Abduction,Glutes,Body Weight
+643,Barbell Rear Tricep Extension,Triceps,Barbell
+644,Stability Ball Plank,Abs,Exercise Ball
+645,Trap Bar Romanian Deadlift,Upper Legs,
+646,Boat Pose,Abs,Body Weight
+647,Dumbbell Reverse Fly with External Rotation,Shoulders,Dumbbell
+648,Single-Leg Push-Up,Chest,Body Weight
+649,Smith Machine Bent-Over Row (Reverse Grip),Back,Strength Machine
+650,Cable One-Arm Concentration Curl,Biceps,Strength Machine
+651,Ankle Circles,Lower Legs,Body Weight
+652,Barbell Rocking Standing Calf Raise,Lower Legs,Barbell
+653,Child's Pose,Abs,Body Weight
+654,Upper Back Stretch,Back,Body Weight
+655,Smith Machine Bicep Curl,Biceps,Strength Machine
+656,Dumbbell Rotational Decline Sit-Up,Abs,Dumbbell
+657,Cable Calf Raise,Lower Legs,Strength Machine
+658,Barbell Squat with Narrow Stance,Upper Legs,Barbell
+659,Dumbbell Renegade Row,Back,Dumbbell
+660,Bench Oblique Crunch,Abs,Bench
+661,Dumbbell Bicep Curl (Supine),Biceps,Dumbbell
+662,Dumbbell Single-Leg Calf Raise,Lower Legs,Dumbbell
+663,Cable One-Arm Side Bend,Abs,Strength Machine
+664,Bench Plank,Abs,Bench
+665,Upward Stretch,Shoulders,Body Weight
+666,Band Hip Lift,Glutes,Bands
+667,EZ Bar Preacher Curl (Reverse Grip),Forearms,EZ Curl Bar
+668,Barbell Incline Bench Pull,Back,Bench
+669,Dumbbell Fly (Stability Ball),Chest,Dumbbell
+670,Dumbbell Alternating Reverse Curl,Forearms,Dumbbell
+671,Dumbbell See Saw Press,Shoulders,Dumbbell
+672,Cat Cow Stretch,Back,Body Weight
+673,Shoulder Circles,Shoulders,Body Weight
+674,Hip Flexor Stretch,Upper Legs,Body Weight
+675,Cable Seated Curl,Biceps,Strength Machine
+676,Calf Raise On A Dumbbell,Lower Legs,Dumbbell
+677,Sphinx,Back,Body Weight
+678,Barbell Bradford Rocky Press,Shoulders,Barbell
+679,Dumbbell Reverse Fly (Prone),Shoulders,Dumbbell
+680,Dumbbell 3 Way Shoulder Raise,Shoulders,Dumbbell
+681,Dumbbell One-Arm Hammer Press,Chest,Dumbbell
+682,Dumbbell One-Arm Wrist Curl,Forearms,Dumbbell
+683,Tricep Side Stretch,Triceps,Body Weight
+684,Kettlebell Dead Clean,Upper Legs,Kettlebell
+685,Barbell Overhead Squat,Upper Legs,Barbell
+686,Dumbbell Alternating Bent-Over Reverse Fly,Shoulders,Dumbbell
+687,Kettlebell Farmer's Carry,Upper Legs,Kettlebell
+688,Hanging Knee Raise (Rotational),Abs,Pullup Bar
+689,Barbell Pin-Off Good Morning,Upper Legs,Barbell
+690,Dumbbell Alternating Shoulder Press,Shoulders,Dumbbell
+691,Barbell Landmine Double Arm Row,Back,Barbell
+692,Barbell Decline Bench Press (Wide Grip),Chest,Barbell
+693,Smith Machine Deltoid Row,Shoulders,Strength Machine
+694,Wrist Circles,Forearms,Body Weight
+695,Trap Bar Squat,Upper Legs,
+696,Side-Lying Hip Abduction,Upper Legs,Body Weight
+697,Kettlebell Alternating Row,Back,Kettlebell
+698,Kettlebell Military Press,Shoulders,Kettlebell
+699,Walking High Knees,Upper Legs,Body Weight
+700,Dumbbell Rotational Bench Press,Triceps,Dumbbell
+701,Lying Alternating Knee Raise,Abs,Body Weight
+702,Star Jump,Upper Legs,Body Weight
+703,Dumbbell Split Jump,Upper Legs,Dumbbell
+704,Clap Push-Up,Chest,Body Weight
+705,Kettlebell Push-Up,Chest,Kettlebell
+706,Dumbbell Seated Alternating Front Raise,Shoulders,Dumbbell
+707,Dumbbell Incline Shoulder Raise,Shoulders,Dumbbell
+708,Dumbbell Iron Cross,Upper Legs,Dumbbell
+709,Smith Machine Hack Squat,Upper Legs,Strength Machine
+710,Knee to Chest (Supine),Glutes,Body Weight
+711,Posterior Lower Leg Stretch,Lower Legs,Body Weight
+712,Dumbbell One-Arm Seated Curl,Biceps,Dumbbell
+713,Weighted Drop Push-Up,Chest,Bench
+714,Dumbbell Seated One-Arm Shoulder Press,Shoulders,Dumbbell
+715,Cable Russian Twist (Stability Ball),Abs,Strength Machine
+716,Shell Stretch,Abs,Body Weight
+717,Seated Hamstring Stretch,Upper Legs,Body Weight
+718,Bird Dog Elbow to Knee,Abs,Body Weight
+719,Rocket Jump,Upper Legs,Body Weight
+720,Dumbbell Push Press,Shoulders,Dumbbell
+721,Calf Machine Shoulder Shrug,Back,Strength Machine
+722,Weight Plate Squat,Upper Legs,Weight Plate
+723,Alternating Reach and Catch,Abs,Body Weight
+724,Weight Plate Sissy Squat,Upper Legs,Weight Plate
+725,Barbell Snatch Shrug,Back,Barbell
+726,Cable Overhead Raise (Supine),Shoulders,Strength Machine
+727,Smith Machine Shoulder Press (Wide Grip),Shoulders,Strength Machine
+728,Smith Machine Decline Bench Press (Close Grip),Chest,Strength Machine
+729,Stability Ball Back Extension,Back,Exercise Ball
+730,Kneeling Hip Extension,Upper Legs,Body Weight
+731,Cable Upward Chop,Abs,Strength Machine
+732,Cable Chest Press (Supine Stability Ball),Chest,Strength Machine
+733,Cable Incline Bench Row,Back,Strength Machine
+734,Hundreds,Abs,Body Weight
+735,Barbell Curl Against an Incline,Biceps,Barbell
+736,Kneeling Hip Flexor,Upper Legs,Body Weight
+737,Dumbbell Forward Lunge with Bicep Curl,Biceps,Dumbbell
+738,Barbell 1/2 Squat,Upper Legs,Barbell
+739,Weight Plate Wall Sit,Upper Legs,Weight Plate
+740,Decline Bench Leg Raise with Hip Thrust,Abs,Bench
+741,Overhead Stretch,Abs,Body Weight
+742,Kettlebell One-Arm Military Press,Shoulders,Kettlebell
+743,Dumbbell One-Arm Tricep Extension (Pronated),Triceps,Dumbbell
+744,Cable Reverse Crunch,Abs,Strength Machine
+745,Hip Raise,Abs,Body Weight
+746,Stability Ball Crunch,Abs,Exercise Ball
+747,Runner's Stretch,Upper Legs,Body Weight
+748,Barbell Cambered Row (Prone),Back,Barbell
+749,Dumbbell One-Arm Upright Row,Shoulders,Dumbbell
+750,Barbell Concentration Curl (Close Grip),Biceps,Barbell
+751,Barbell Squat to Shoulder Press,Upper Legs,Barbell
+752,Barbell Landmine One-Arm Row,Back,Barbell
+753,Barbell Press Sit-Up,Abs,Barbell
+754,Dumbbell Squat to Bicep Curl,Biceps,Dumbbell
+755,Band Upright Row,Back,Bands
+756,Cable Rope One-Arm Preacher Curl (Hammer),Biceps,Strength Machine
+757,Dumbbell Dublin Press,Shoulders,Dumbbell
+758,Dumbbell Press (Stability Ball),Chest,Dumbbell
+759,Posterior Capsule Stretch,Shoulders,Body Weight
+760,V Bar Pull-Up,Back,Pullup Bar
+761,Climber Pull-Up,Back,Pullup Bar
+762,Dumbbell Seated Wrist Curl (Neutral Grip),Forearms,Dumbbell
+763,Cable Squat Curl,Biceps,Strength Machine
+764,Knee to Chest to Leg Raise,Abs,Body Weight
+765,Kneeling Lat Stretch,Back,Body Weight
+766,Band Good Morning,Upper Legs,Bands
+767,Dumbbell One-Arm Rear Row (Prone),Back,Dumbbell
+768,Dumbbell Incline Hammer Curl (Prone),Biceps,Dumbbell
+769,Dumbbell One-Arm Tricep Extension (Supinated),Triceps,Dumbbell
+770,Dumbbell Wall Squat,Upper Legs,Dumbbell
+771,EZ Bar Seated Reverse Grip French Press,Triceps,Barbell
+772,Barbell Front Raise Pullover,Chest,Barbell
+773,Barbell Decline Pullover,Chest,Barbell
+774,Inchworm,Abs,Body Weight
+775,Barbell Snatch,Upper Legs,Barbell
+776,Kettlebell One-Arm Floor Press,Chest,Kettlebell
+777,Dumbbell Seated One-Arm Wrist Curl,Forearms,Dumbbell
+778,Band Bench Press,Chest,Bands
+779,Kettlebell Leg Pass,Abs,Kettlebell
+780,Barbell Reverse Tricep Bench Press,Triceps,Barbell
+781,All Fours Quad Stretch,Upper Legs,Body Weight
+782,Stability Ball Push-Up,Chest,Exercise Ball
+783,Dumbbell Single-Leg Bench Squat,Upper Legs,Dumbbell
+784,Stability Ball Pike Push-Up,Chest,Exercise Ball
+785,Glute Bridge March,Abs,Body Weight
+786,Cable Rotational Crunch (Kneeling),Abs,Strength Machine
+787,Leg Lift,Glutes,Body Weight
+788,Smith Machine Shoulder Press (Close Grip),Shoulders,Strength Machine
+789,Straight Arm Plank,Abs,Body Weight
+790,Dumbbell One-Arm Front Raise,Shoulders,Dumbbell
+791,Seated Twist,Abs,Body Weight
+792,Barbell Neck Press,Chest,Barbell
+793,Stability Ball Leg Lift,Abs,Exercise Ball
+794,Barbell Landmine Squat,Upper Legs,Barbell
+795,Barbell Stiff-Leg Deadlift (Wide Stance),Back,Barbell
+796,Forward Step-Up,Upper Legs,Bench
+797,Kettlebell Suitcase Carry,Upper Legs,Dumbbell
+798,Cable Rope Incline Tricep Extension,Triceps,Strength Machine
+799,Seated Rotation,Back,Body Weight
+800,Kettlebell One-Arm Clean and Jerk,Shoulders,Kettlebell
+801,Dumbbell Alternating Preacher Curl (Hammer),Biceps,Strength Machine
+802,Mountain Biking,Cardio,Other
+803,Cable One-Arm Incline Press,Chest,Strength Machine
+804,Kettlebell Advanced Windmill,Abs,Kettlebell
+805,Gironda Sternum Pull-Up,Back,Pullup Bar
+806,Dumbbell One-Arm Shoulder Press,Shoulders,Dumbbell
+807,Single-Leg Hack Squat,Upper Legs,Strength Machine
+808,Barbell Power Clean from Blocks,Upper Legs,Barbell
+809,Cable Kneeling Tricep Extension,Triceps,Strength Machine
+810,Stability Ball Wall Squat,Upper Legs,Exercise Ball
+811,Cable Rope Preacher Curl (Hammer),Biceps,Strength Machine
+812,Weighted Side Touch,Abs,Weight Plate
+813,Exercise Dome Push-Up,Chest,
+814,Dumbbell Seated One-Arm Lateral Raise,Shoulders,Dumbbell
+815,Stability Ball Hip Thrust,Glutes,Exercise Ball
+816,Janda Sit-Up,Abs,Body Weight
+817,Dumbbell One-Arm Tricep Extension (Reverse Grip),Triceps,Dumbbell
+818,Kettlebell Turkish Get-Up Lunge,Shoulders,Kettlebell
+819,Barbell Incline Shoulder Raise,Shoulders,Barbell
+820,Cable Bicep Curl (Supine Close Grip),Biceps,Strength Machine
+821,Smith Machine Decline Bench Press (Wide Grip),Chest,Strength Machine
+822,Weighted Decline Rotation,Abs,Weight Plate
+823,Weight Plate Pinch,Forearms,Weight Plate
+824,Chin-Up (Mixed Grip),Back,Pullup Bar
+825,Dumbbell Posterior Fly on Stability Ball,Shoulders,Dumbbell
+826,EZ Bar French Press (Reverse Grip),Triceps,EZ Curl Bar
+827,Kettlebell Push Press,Shoulders,Kettlebell
+828,Smith Machine Squat to Bench,Upper Legs,Strength Machine
+829,Cable Rotation (Stability Ball),Abs,Strength Machine
+830,Dumbbell Squat to Shoulder Press,Upper Legs,Dumbbell
+831,Rolling,Abs,Body Weight
+832,Knee Circles,Lower Legs,Body Weight
+833,Posterior Tibialis Stretch,Lower Legs,Bands
+834,Dumbbell One-Arm Fly,Chest,Dumbbell
+835,Front to Back Leg Swings,Upper Legs,Body Weight
+836,Barbell Incline Bench Press (Reverse Grip),Chest,Barbell
+837,Dumbbell Incline One-Arm Press,Chest,Dumbbell
+838,Barbell High Front Raise,Shoulders,Barbell
+839,Cross Leg Erector Spinae,Abs,Body Weight
+840,Cable Incline Tricep Extension,Triceps,Strength Machine
+841,Decline Bench Knee Raise,Abs,Bench
+842,Dumbbell One-Arm Row (Reverse Grip),Back,Dumbbell
+843,Dumbbell Bicep Curl (Supine Wide Grip),Biceps,Dumbbell
+844,Leg Slide,Abs,Body Weight
+845,Dumbbell Seated Bent-Over Tricep Extension,Triceps,Dumbbell
+846,Side to Side Leg Swings,Upper Legs,Body Weight
+847,Dumbbell Shoulder Press (Reverse Grip),Shoulders,Dumbbell
+848,Dumbbell Pullover (Stability Ball),Chest,Dumbbell
+849,Dumbbell Shrug (Stability Ball),Back,Dumbbell
+850,Cable Rope Incline Row,Back,Strength Machine
+851,Isometric Chest Press,Chest,Body Weight
+852,Knee Across the Body,Glutes,Body Weight
+853,Kettlebell Turkish Get-Up Squat,Shoulders,Kettlebell
+854,Kettlebell Arnold Press,Shoulders,Kettlebell
+855,Band Hamstring Stretch,Upper Legs,Bands
+856,Dumbbell One-Arm Reverse Bench Wrist Curl,Forearms,Dumbbell
+857,Cable Decline One-Arm Chest Fly,Chest,Strength Machine
+858,Barbell Pullover and Press,Chest,Barbell
+859,Stability Ball Bridge,Abs,Exercise Ball
+860,Inchworm Push-Up,Abs,Body Weight
+861,Smith Machine Bench Press (Reverse Grip),Chest,Strength Machine
+862,Dumbbell Reverse Concentration Curl,Forearms,Dumbbell
+863,Trap Bar Overhead Press,Shoulders,
+864,Barbell Power Snatch,Upper Legs,Barbell
+865,Modified Push-Up to Forearms,Forearms,Body Weight
+866,Medicine Ball Rotation,Abs,
+867,Box Side to Side Shuffle,Upper Legs,
+868,Dumbbell Hammer Curl to Press,Shoulders,Dumbbell
+869,Barbell Jerk,Shoulders,Barbell
+870,Barbell Incline Row (Reverse Grip),Back,Barbell
+871,Smith Machine Incline Bench Press (Reverse Grip),Chest,Strength Machine
+872,Dumbbell Seated Side Bend,Abs,Dumbbell
+873,Cable Reverse Preacher Curl,Forearms,Strength Machine
+874,Cable Upright Row (Supine),Shoulders,Strength Machine
+875,Side-Lying Hip Flexor,Upper Legs,Body Weight
+876,Cable Kneeling Tricep Extension,Triceps,Strength Machine
+877,Roll Down,Abs,Body Weight
+878,Single-Leg Reverse Hyper (Flat Bench),Abs,Bench
+879,Smith Machine Incline Tricep Extension,Triceps,Strength Machine
+880,EZ Bar Decline Tricep Extension,Triceps,EZ Curl Bar
+881,Barbell Rear Delt Row to Neck,Shoulders,Barbell
+882,Kettlebell Hang Clean,Upper Legs,Kettlebell
+883,Dumbbell One-Arm Bent-Over Reverse Fly,Shoulders,Dumbbell
+884,Knee Tuck Jump,Upper Legs,Body Weight
+885,Stability Ball Incline Ab Crunch,Abs,Exercise Ball
+886,Weight Plate One-Arm Shrug,Back,Weight Plate
+887,Dumbbell Seated Alternating Reverse Fly,Shoulders,Dumbbell
+888,Single-Leg Donkey Calf Raise,Lower Legs,Bench
+889,Bent Knee Hundreds,Abs,Body Weight
+890,Dumbbell One-Arm Pullover (Stability Ball),Chest,Dumbbell
+891,Quadricep Stretch,Upper Legs,Bench
+892,Dumbbell Wall Squat Hold,Upper Legs,Dumbbell
+893,Barbell Stiff-Leg Deadlift (Bench),Back,Barbell
+894,Dumbbell One-Arm Press (Palms In),Shoulders,Dumbbell
+895,Cable Seated Shrug,Back,Strength Machine
+896,Barbell Neck Press,Chest,Barbell
+897,Push-up to Renegade Row,Chest,Dumbbell
+898,Standing Hamstring and Calf Stretch,Upper Legs,Bands
+899,Dumbbell Shoulder Press (Stability Ball),Shoulders,Dumbbell
+900,Three Bench Dip,Triceps,Bench
+901,Bear Crawls,Upper Legs,Body Weight
+902,Smith Machine Behind the Back Wrist Curl,Forearms,Strength Machine
+903,Dumbbell One-Arm Seated Hammer Curl,Biceps,Dumbbell
+904,Cable Lying Crunch,Abs,Strength Machine
+905,Stability Ball Hand and Foot Exchange,Abs,Exercise Ball
+906,Cable High Curl (Supine),Biceps,Strength Machine
+907,Dumbbell Alternating Press (Palms In),Shoulders,Dumbbell
+908,Side Plank Hip Abduction,Abs,Body Weight
+909,Barbell Clean Pull,Upper Legs,Barbell
+910,Cable Single-Leg Calf Raise,Lower Legs,Strength Machine
+911,Cable Decline Pullover,Shoulders,Strength Machine
+912,Bow Pose,Abs,Body Weight
+913,Barbell Snatch Pull,Upper Legs,Barbell
+914,Dumbbell Incline One Arm Hammer Press,Chest,Dumbbell
+915,Stability Ball V-Up,Abs,Exercise Ball
+916,Seated Glute Stretch,Glutes,Body Weight
+917,Stability Ball Tricep Extension,Triceps,Dumbbell
+918,Band Calf Raise,Lower Legs,Bands
+919,Weighted Three Bench Dip,Triceps,Weight Plate
+920,Dumbbell One-Arm Arnold Press,Shoulders,Dumbbell
+921,Scalene Stretch,,Body Weight
+922,Stability Ball Medicine Ball Sit-Up,Abs,Exercise Ball
+923,Barbell One-Arm Floor Press,Chest,Barbell
+924,Long Jump,Upper Legs,Body Weight
+925,Stability Ball Oblique Curl,Abs,Exercise Ball
+926,Dumbbell Pronation (Side-Lying),Forearms,Dumbbell
+927,Cable Rope Tricep Extension (Supine),Triceps,Strength Machine
+928,Barbell One-Arm Side Deadlift,Upper Legs,Barbell
+929,Bench Rotational Crunch,Abs,Bench
+930,Forward Lunge with Rotation,Upper Legs,Body Weight
+931,Barbell Speed Squat,Upper Legs,Barbell
+932,Barbell Supine Reverse Extension,Triceps,Barbell
+933,Reach and Catch,Abs,Body Weight
+934,Kettlebell One-Arm Overhead Squat,Upper Legs,Kettlebell
+935,Bench Jackknife Sit-Up,Abs,Bench
+936,Dumbbell One-Arm Wrist Curl Over Bench (Neutral),Forearms,Dumbbell
+937,Dumbbell Supination (Side-Lying),Forearms,Dumbbell
+938,Barbell Decline Bench Press (Reverse Grip),Chest,Barbell
+939,Barbell Side Bend,Abs,Barbell
+940,Barbell Alternating Front and Back Press,Shoulders,Barbell
+941,Cable One-Arm Fly (Stability Ball),Chest,Strength Machine
+942,Sun Salutation,Abs,Body Weight
+943,Plyo Box Step-Ups,Upper Legs,
+944,Dumbbell Seated Bent-Over One-Arm Tricep Extension,Triceps,Dumbbell
+945,Cable Knee Raise (Supine),Abs,Strength Machine
+946,Dumbbell One-Arm Reverse Fly,Shoulders,Dumbbell
+947,Kettlebell Clean,Shoulders,Kettlebell
+948,Soleus and Achilles Stretch,Lower Legs,Body Weight
+949,Hack Single-Leg Calf Raise,Lower Legs,Strength Machine
+950,Rocky Pull-Up (Hammer Grip),Back,Pullup Bar
+951,Dumbbell One-Arm Lateral Raise (Prone),Shoulders,Dumbbell
+952,Barbell Pin Press,Triceps,Barbell
+953,Alternating Reverse Hyper (Flat Bench),Abs,Bench
+954,Dumbbell French Press (Stability Ball),Triceps,Exercise Ball
+955,Kettlebell Hang Clean,Forearms,Kettlebell
+956,Deadlift to Bicep Curl,Back,Barbell
+957,Cable Single-Leg Knee Raise,Abs,Strength Machine
+958,Cable Low Tricep Extension (Supine),Triceps,Strength Machine
+959,Barbell Rack Delivery,Shoulders,Barbell
+960,Dumbbell Incline Press on Stability Ball,Chest,Dumbbell
+961,Towel Tricep Extension,Triceps,Other
+962,Barbell Shoulder Pull (Prone),Shoulders,Barbell
+963,Dumbbell One-Arm Decline Chest Press,Chest,Dumbbell
+964,Warrior Pose,Abs,Body Weight
+965,Dumbbell Alternating Reverse Fly,Shoulders,Dumbbell
+966,One-Arm Wall Stretch,Back,Body Weight
+967,Stability Ball Back Stretch,Back,Exercise Ball
+968,Dumbbell Stiff-Leg Deadlift on Bench,Back,Dumbbell
+969,Stability Ball Roman Twist,Abs,Exercise Ball
+970,Dumbbell Reverse Spider Curl,Biceps,Dumbbell
+971,Barbell Jefferson Squat,Upper Legs,Barbell
+972,Spiderman Lunge,Upper Legs,Body Weight
+973,Stability Ball Weight Plate Pullover,Triceps,Exercise Ball
+974,Stability Ball Side Crunch,Abs,Exercise Ball
+975,Dumbbell One-Arm Reverse Preacher Curl,Forearms,Dumbbell
+976,Locust Pose,Abs,Body Weight
+977,Side Plank Crunch,Abs,Body Weight
+978,Stability Ball Cable Fly,Chest,Strength Machine
+979,Dumbbell Squat Curl to Shoulder Press,Upper Legs,Dumbbell
+980,Single-Leg Butt Kick,Upper Legs,Body Weight
+981,Box Single-Leg Push-Off,Upper Legs,
+982,Warrior 2 Pose,Abs,Body Weight
+983,Dumbbell One-Arm Bent-Over Reverse Fly,Shoulders,Dumbbell
+984,Smith Machine Incline Shoulder Raise,Shoulders,Strength Machine
+985,Kettlebell Floor Press,Chest,Kettlebell
+986,Kettlebell Bent Press,Abs,Kettlebell
+987,Kettlebell Alternating Press,Shoulders,Kettlebell
+988,Side-Lying Thoracic Rotation,Back,Body Weight
+989,Table Pose,Abs,Body Weight
+990,Barbell Hang Snatch,Upper Legs,Barbell
+991,Cable Judo Flip,Abs,Strength Machine
+992,Dumbbell Shoulder Raise (Stability Ball),Shoulders,Dumbbell
+993,Dumbbell One-Arm French Press (Stability Ball),Triceps,Dumbbell
+994,Drop Push-Up,Chest,Bench
+995,Barbell Decline Bench Lunge,Upper Legs,Barbell
+996,Barbell Round the World Shoulder Stretch,Shoulders,Barbell
+997,Barbell One-Arm Row,Back,Barbell
+998,Medicine Ball Overhead Throw,Shoulders,
+999,Kneeling Thoracic Mobility,Back,Body Weight
+1000,Smith Machine Reverse Bench Press (Close Grip),Triceps,Strength Machine
+1001,Kettlebell Seated Press,Shoulders,Kettlebell
+1002,High Knee Skip,Upper Legs,Body Weight
+1003,Trap Bar Farmer’s Walk,Upper Legs,
+1004,Barbell Alternating Press,Shoulders,Barbell
+1005,Dumbbell Bicep Curl Step-Up,Biceps,Dumbbell
+1006,Hero Pose,Abs,Body Weight
+1007,Kneeling Back Stretch,Upper Legs,Body Weight
+1008,Barbell High Snatch,Upper Legs,Barbell
+1009,Dumbbell One-Arm Hammer Shoulder Press,Shoulders,Dumbbell
+1010,Smith Machine Front Squat,Upper Legs,Strength Machine
+1011,Kettlebell One-Arm Para Press,Shoulders,Kettlebell
+1012,Barbell Decline Pullover (Wide Grip),Chest,Barbell
+1013,Smith Machine One-Arm Row,Back,Strength Machine
+1014,Dumbbell Incline One-Arm Fly,Chest,Dumbbell
+1015,Dumbbell One-Arm Press (Reverse Grip),Chest,Dumbbell
+1016,Barbell Squat to Upright Row,Upper Legs,Barbell
+1017,Smith Machine Single-Leg Calf Raise,Lower Legs,Strength Machine
+1018,Double Leg Stretch,Abs,Body Weight
+1019,Cable Rope Pull-Up,Back,Strength Machine
+1020,Band Seated Calf Stretch,Lower Legs,Bands
+1021,Bench Calf Stretch,Lower Legs,Bench
+1022,Exercise Dome One-Arm Push-Up,Chest,
+1023,Medicine Ball Two-Arm Overhead Throw,Abs,Other
+1024,Kettlebell Snatch,Shoulders,Kettlebell
+1025,Barbell Bicep Curl (Prone),Biceps,Barbell
+1026,Dumbbell Lunge Tricep Extension,Triceps,Dumbbell
+1027,Dumbbell Incline Hammer Press (Stability Ball),Chest,Dumbbell
+1028,Downward Facing Puppy Dog,Abs,Body Weight
+1029,Kettlebell Open Palm Clean,Upper Legs,Kettlebell
+1030,Medicine Ball Catch and Throw,Back,Other
+1031,Double-Leg Butt Kick,Upper Legs,Body Weight
+1032,Thoracic Spine Extension (Foam Roller),Back,Body Weight
+1033,Cable Rotational Crunch (Supine),Abs,Strength Machine
+1034,Barbell Reverse Grip Tricep Extension,Triceps,Barbell
+1035,Barbell One-Arm Bicep Curl,Biceps,Barbell
+1036,Leg Slide (Supine),Abs,Body Weight
+1037,Depth Jump Leap,Upper Legs,Body Weight
+1038,Passive Opening Twist,Abs,Body Weight
+1039,Stability Ball Jack Knife Push-Up,Abs,Exercise Ball
+1040,Band Sit-Up,Abs,Bench
+1041,Crow Pose,Abs,Body Weight
+1042,Diagonal Plate Raise,Shoulders,Weight Plate
+1043,Dumbbell Preacher Curl (Stability Ball),Biceps,Dumbbell
+1044,High Knee Walk External Hip Rotation,Upper Legs,Body Weight
+1045,Trap Bar Bent-over Rows,Back,
+1046,Barbell Seated Front Raise,Shoulders,Barbell
+1047,Side-Lying Quadricep Stretch,Upper Legs,Body Weight
+1048,Barbell 1/4 Squat,Upper Legs,Barbell
+1049,Decline Bench Alternating Leg Raise,Abs,Bench
+1050,Cable One-Arm Preacher Curl (Reverse),Biceps,Strength Machine
+1051,Dumbbell Seated One-Arm Arnold Press,Shoulders,Dumbbell
+1052,Smith Machine Decline Bench Press (Reverse Grip),Chest,Strength Machine
+1053,Band Calf Raise,Lower Legs,Bands
+1054,Stability Ball Weighted Wall Squat,Upper Legs,Exercise Ball
+1055,Child Pose Side Stretch,Back,Body Weight
+1056,Bench Leg and Hip Stretch,Upper Legs,Bench
+1057,Low Back Chair Stretch,Back,Bench
+1058,Smith Machine Wrist Curl,Forearms,Strength Machine
+1059,Stability Ball Calf Raise,Lower Legs,Exercise Ball
+1060,Gorilla Chin-Up with Crunch,Back,Pullup Bar
+1061,Cross-Legged Forward Fold,Abs,Body Weight
+1062,Seated Wide Angle Pose,Upper Legs,Body Weight
+1063,Incline Push-Up Depth Jump,Chest,Bench
+1064,Single-Leg Stride Jump,Upper Legs,Body Weight
+1065,Crescent Moon Pose,Abs,Body Weight
+1066,Stability Ball Side Crunch,Abs,Exercise Ball
+1067,Carioca,Upper Legs,Body Weight
+1068,Alternating Arm Cobra,Abs,Body Weight
+1069,Dumbbell Hammer Curl on Stability Ball,Biceps,Dumbbell
+1070,Dumbbell Reverse Preacher Curl,Forearms,Strength Machine
+1071,Stability Ball Neck Flexion,Shoulders,Exercise Ball
+1072,Single-Leg Stance,Abs,Body Weight
+1073,Straight Leg Sit-Up,Abs,Body Weight
+1074,Half Kneeling Psoas Stretch,Back,Body Weight
+1075,Heel Walking,Lower Legs,Body Weight
+1076,Triangle Pose,Abs,Body Weight
+1077,Cable Shrug (Supine),Back,Strength Machine
+1078,Kettlebell Double Windmill,Abs,Kettlebell
+1079,Dumbbell Rear Row (Stability Ball),Back,Dumbbell
+1080,Medicine Ball Chest Throw (Supine),Triceps,
+1081,Dumbbell Lateral Raise (Stability Ball),Shoulders,Dumbbell
+1082,Barbell Split Jump,Upper Legs,Barbell
+1083,Side Hop-Sprint,Upper Legs,Body Weight
+1084,Assisted Chest Stretch,Chest,Body Weight
+1085,Dumbbell Incline Fly (Stability Ball),Chest,Dumbbell
+1086,Barbell Kneeling Jump Squat,Glutes,Barbell
+1087,Dumbbell Alternating Hammer Curl (Stability Ball),Biceps,Dumbbell
+1088,One-Knee to Chest (Supine),Abs,Body Weight
+1089,Smith Machine Zercher Squat,Upper Legs,Strength Machine
+1090,Camel Pose,Abs,Body Weight
+1091,Dumbbell One-Arm Bicep Curl (Prone),Biceps,Dumbbell
+1092,Warrior 3 Pose,Abs,Body Weight
+1093,Side Wrist Pull,Shoulders,Body Weight
+1094,Stability Ball Lat Stretch,Back,Exercise Ball
+1095,Calf Stretch with Rope,Lower Legs,Bands
+1096,Medicine Ball Chest Push,Chest,
+1097,Decline Bench Alternating Knee Raise,Abs,Bench
+1098,Dumbbell Shoulder Raise (Stability Ball),Shoulders,Dumbbell
+1099,Stability Ball Weighted Hyperextension,Back,Exercise Ball
+1100,Dumbbell Bicep Curl With Stork Stance,Biceps,Dumbbell
+1101,Kettlebell Jerk,Shoulders,Kettlebell
+1102,Cable Incline Fly (Stability Ball),Chest,Strength Machine
+1103,Side Angle Pose With Rotation,Abs,Body Weight
+1104,Cable Decline One-Arm Press,Chest,Strength Machine
+1105,Dumbbell Decline One-Arm Hammer Press,Chest,Dumbbell
+1106,Dumbbell Arnold Press (Stability Ball),Shoulders,Dumbbell
+1107,Band Quad Stretch,Upper Legs,Bands
+1108,Dumbbell Alternating Bicep Curl (Stability Ball),Biceps,Dumbbell
+1109,Side-Lying Floor Stretch,Back,Body Weight
+1110,Lateral High Knee Skip,Upper Legs,Body Weight
+1111,Fish Pose,Abs,Body Weight
+1112,Dumbbell Alternating Reverse Fly (Prone),Shoulders,Dumbbell
+1113,Z Pose,Abs,Body Weight
+1114,Seated Hamstring and Calf Stretch,Upper Legs,Bands
+1115,Kettlebell One-Arm Floor Press,Chest,Kettlebell
+1116,Inline Skating,Cardio,Other
+1117,Alternating Diagonal Leg Bound,Upper Legs,Body Weight
+1118,Dumbbell Decline Press (Stability Ball),Chest,Dumbbell
+1119,Stability Ball Back Extension with Hands Behind Head,Back,Exercise Ball
+1120,Decline Bench Cable Crunch,Abs,Strength Machine
+1121,Leg Slide,Abs,Body Weight
+1122,Double Leg Hundreds,Abs,Body Weight
+1123,Stability Ball Neck Extension,Shoulders,Exercise Ball
+1124,Dumbbell Seated One-Arm Front Raise,Shoulders,Dumbbell
+1125,Box Jump with Single-Leg Stabilization,Lower Legs,
+1126,Stability Ball Plank with Hip Abduction,Abs,Exercise Ball
+1127,Stability Ball Ab Curl,Abs,Exercise Ball
+1128,Dumbbell One-Arm Reverse Spider Curl,Biceps,Dumbbell
+1129,Medicine Ball Decline Two-Arm Overhead Throw,Abs,
+1130,Reverse Lunge with Rotation,Upper Legs,Body Weight
+1131,Trap Bar Jump Squat,Upper Legs,
+1132,Barbell Split Jerk,Upper Legs,Barbell
+1133,Barbell Frankenstein Squat,Shoulders,Barbell
+1134,Burpee Box Jump Overs,Upper Legs,
+1135,Dumbbell One-Arm Reverse Fly,Shoulders,Dumbbell
+1136,Kneeling Side Bend,Abs,Body Weight
+1137,Stability Ball Chest Stretch,Chest,Exercise Ball
+1138,Dumbbell One-Arm Hammer Curl (Prone),Biceps,Dumbbell
+1139,Stability Ball Weight Plate Side Bend,Abs,Exercise Ball
+1140,Stability Ball Narrow Push-Up,Chest,Exercise Ball
+1141,Standing Opposition Reach,Abs,Body Weight
+1142,Stability Ball Dip,Triceps,Exercise Ball
+1143,Barbell Hang Clean Below the Knees,Upper Legs,Barbell
+1144,Stability Ball Hip Extension,Back,Exercise Ball
+1145,Stability Ball Roll Down,Abs,Exercise Ball
+1146,Dumbbell One-Arm Front Raise,Shoulders,Dumbbell
+1147,Stability Ball Wood Chop,Abs,Exercise Ball
+1148,Dumbbell Alternating Row (Stability Ball),Back,Dumbbell
+1149,Standing Pelvic Tilt,Back,Body Weight
+1150,Medicine Ball Chest Pass,Chest,
+1151,Dumbbell Tricep Kickback with Stork Stance,Triceps,Dumbbell
+1152,Stability Ball Extended Arm Crunch,Abs,Exercise Ball
+1153,Cable Dual Overhead Curl (Stability Ball),Biceps,Strength Machine
+1154,Peroneal Stretch,Lower Legs,Bands
+1155,Hare Pose,Abs,Body Weight
+1156,Dumbbell Kneeling Bicep Curl (Stability Ball),Biceps,Dumbbell
+1157,Stability Ball Walking Lunge,Abs,Exercise Ball
+1158,Decline Bench Cable Knee Raise,Abs,Bench
+1159,Barbell Seated High Front Raise,Shoulders,Barbell
+1160,Dumbbell One-Arm Press (Stability Ball),Chest,Dumbbell
+1161,Single-Leg Box Jump,Upper Legs,
+1162,Dumbbell Decline One-Arm Fly,Chest,Dumbbell
+1163,Walking Inchworm Push-Up,Abs,Body Weight
+1164,Trap Bar Lunges,Upper Legs,
+1165,Upper Body Chair Stretch,Shoulders,Bench
+1166,Dumbbell One-Arm Fly (Stability Ball),Chest,Dumbbell
+1167,Dumbbell Alternating Posterior Fly (Stability Ball),Shoulders,Dumbbell
+1168,Cable One-Arm Press (Stability Ball),Chest,Strength Machine
+1169,Sage Twist 1,Abs,Body Weight
+1170,Standing Half Moon,Abs,Body Weight
+1171,Dumbbell Kneeling Lateral Raise (Stability Ball),Shoulders,Dumbbell
+1172,Stability Ball Cross-Leg Crunch,Abs,Exercise Ball
+1173,Bent Knee Side Angle Pose,Abs,Body Weight
+1174,Turtle Pose,Abs,Body Weight
+1175,Barbell Power Jerk,Upper Legs,Barbell
+1176,Stability Ball Reverse Crunch,Abs,Exercise Ball
+1177,Stability Ball Side-Lying Neck Stretch,Abs,Exercise Ball
+1178,Eagle Pose,Abs,Body Weight
+1179,Dumbbell Alternating Bicep Curl (Stability Ball),Biceps,Dumbbell
+1180,Stability Ball Dumbbell Kickback,Triceps,Dumbbell
+1181,Kettlebell Alternating Hang Clean,Shoulders,Kettlebell
+1182,Downward Facing Dog Single-Leg,Abs,Body Weight
+1183,Cable One-Arm Incline Fly (Stability Ball),Chest,Strength Machine
+1184,Stability Ball Balance,Chest,Exercise Ball
+1185,Stability Ball Full Body Plank,Back,Exercise Ball
+1186,Dumbbell Alternating Lateral Raise (Stability Ball),Shoulders,Dumbbell
+1187,Dumbbell One-Arm Bicep Curl on Stability Ball,Biceps,Dumbbell
+1188,One-Arm Chin-Up,Back,Pullup Bar
+1189,Staff Pose,Abs,Body Weight
+1190,Single-Leg Wall Squat,Upper Legs,Body Weight
+1191,Half Locust,Upper Legs,Body Weight
+1192,Dumbbell Lunge with Bicep Curl Bowling Motion,Biceps,Dumbbell
+1193,Seated Trunk Rotation,Back,Exercise Ball
+1194,Mighty Pose,Abs,Body Weight
+1195,Bench Quad Stretch (Supine),Upper Legs,Bench
+1196,Dumbbell Alternating Cobra (Stability Ball),Abs,Dumbbell
+1197,Kneeling Warrior Lunge,Upper Legs,Body Weight
+1198,Kettlebell One-Arm Palm Clean,Upper Legs,Kettlebell
+1199,Dumbbell One-Arm Single-Leg Bicep Curl on Stability Ball,Biceps,Dumbbell
+1200,Stability Ball Back Extension,Back,Exercise Ball
+1201,Revolved Abdomen Pose,Abs,Body Weight
+1202,Dumbbell Incline One-Arm Press (Stability Ball),Chest,Dumbbell
+1203,Lateral Box Jump Overs,Upper Legs,
+1204,Stability Ball Hip Rotation,Abs,Exercise Ball
+1205,Dumbbell One-Arm Shoulder Press (Stability Ball),Shoulders,Dumbbell
+1206,Depth Box Jumps,Upper Legs,
+1207,Stability Ball Wall Circles,Back,Exercise Ball
+1208,Dumbbell Alternating Shoulder Press (Stability Ball),Shoulders,Dumbbell
+1209,Medicine Ball Throw (Stability Ball),Abs,
+1210,Stability Ball Reverse Crunch,Abs,Exercise Ball
+1211,Stability Ball Standing Hamstring Stretch,Upper Legs,Exercise Ball
+1212,Medicine Ball Bicep Curl on Stability Ball,Biceps,Exercise Ball
+1213,Stability Ball Hip Roll,Abs,Exercise Ball
+1214,Reclining Big Toe Pose,Upper Legs,Body Weight
+1215,Warrior High Lunge,Upper Legs,Body Weight
+1216,Stability Ball Low Back Stretch,Back,Exercise Ball
+1217,Dumbbell One-Arm Arnold Press (Stability Ball),Shoulders,Dumbbell
+1218,Upward Facing Bow Pose,Abs,Body Weight
+1219,Dumbbell Cobra (Stability Ball),Abs,Dumbbell
+1220,Stability Ball Back Stretch,Back,Exercise Ball
+1221,Barbell Snatch Balance,Upper Legs,Barbell
+1222,Child's Pose (Stability Ball),Abs,Exercise Ball
+1223,Dumbbell One-Arm Hammer Press (Stability Ball),Chest,Dumbbell
+1224,Straight Leg Walk,Upper Legs,Body Weight
+1225,Seated Box Jumps,Upper Legs,
+1226,Stability Ball Straight-Leg Crunch,Abs,Exercise Ball
+1227,Stability Ball Hamstring Contract Relax,Upper Legs,Exercise Ball
+1228,Barbell Jerk Dip Squat,Upper Legs,Barbell
+1229,Barbell One-Arm Snatch,Upper Legs,Barbell
+1230,Stability Ball Rollover,Abs,Exercise Ball
+1231,Dumbbell Bicep Curl on Dome,Biceps,Dumbbell
+1232,Band Shoulder Press (Stability Ball),Shoulders,Bands
+1233,Barbell Press on Stability Ball,Shoulders,Barbell
+1234,Broad Jump to Box Jump,Upper Legs,
+1235,Stability Ball Single-Leg Crunch,Abs,Exercise Ball
+1236,Dumbbell Bicep Curl on Stability Ball,Biceps,Exercise Ball
+1237,Cable Incline Press (Stability Ball),Chest,Strength Machine
+1238,Stability Ball Hamstring Stretch,Upper Legs,Exercise Ball
+1239,Dumbbell One-Arm Lateral Raise (Stability Ball),Shoulders,Dumbbell
+1240,Stability Ball Back Extension with Knees Off Ground,Back,Exercise Ball
+1241,Dumbbell Single-Leg Fly (Stability Ball,Chest,Dumbbell
+1242,Stability Ball Hug,Back,Exercise Ball
+1243,Dumbbell Alternating Arnold Press (Stability Ball),Shoulders,Exercise Ball
+1244,Stability Ball Single-Leg Hip Rotation,Abs,Exercise Ball
+1245,Barbell Clean From Blocks,Upper Legs,Barbell
+1246,Seated Overhead Stretch,Abs,Body Weight
+1247,Stability Ball One-Arm Bridge,Abs,Exercise Ball
+1248,Walking Quadricep Stretch,Upper Legs,Body Weight
+1249,Dumbbell Incline One-Arm Fly on Stability Ball,Chest,Dumbbell
+1250,Stability Ball Hundreds,Abs,Exercise Ball
+1251,Stability Ball Quadricep Stretch,Upper Legs,Exercise Ball
+1252,Stability Ball Cross-Leg Bridge,Abs,Exercise Ball
+1253,Dumbbell One-Arm Posterior Fly on Stability Ball,Shoulders,Dumbbell
+1254,Kettlebell Jerk,Shoulders,Kettlebell
+1255,Kettlebell One-Arm Split Jerk,Shoulders,Kettlebell
+1256,Stability Ball Stork Stance,Abs,Exercise Ball
+1257,Stability Ball Side Bend,Abs,Exercise Ball
+1258,Depth Jumps,Upper Legs,
+1259,Dumbbell Incline One-Arm Hammer Press (Stability Ball),Chest,Dumbbell
+1260,Stability Ball Hamstring Stretch,Abs,Exercise Ball
+1261,Kettlebell One-Arm Split Snatch,Shoulders,Kettlebell
+1262,Stability Ball Shoulder Flexion,Back,Exercise Ball
+1263,Weighted Box Jump,Upper Legs,
+1264,Box Jump Tap Overs,Upper Legs,
+1265,Dumbbell One-Arm Row (Stability Ball),Back,Dumbbell
+1266,Stability Ball Hip Flexor Stretch,Upper Legs,Exercise Ball
+1267,Push-Up to Box Jump,Upper Legs,
+1268,Rotational Step-Up,Upper Legs,Bench
+1269,Cable One-Arm Incline Press (Stability Ball),Chest,Strength Machine
+1270,Kettlebell One-Arm Jerk,Shoulders,Kettlebell
+1271,Kneeling Jump to Box Jump,Upper Legs,
+1272,Barbell Squat Jerk,Upper Legs,Barbell
+1273,Stability Ball Hamstring Stretch,Abs,Exercise Ball
+1274,Stability Ball Single-Leg Bridge,Abs,Exercise Ball
+1275,Medicine Ball Chest Push to Run,Chest,
+1276,Barbell Power Snatch From Blocks,Upper Legs,Barbell
+1277,Medicine Ball One-Arm Overhead Throw,Abs,Other
+1278,Barbell Snatch from Blocks,Upper Legs,Barbell
+1279,Stability Ball Tricep Stretch,Triceps,Exercise Ball
+1280,Barbell Hang Snatch Below the Knees,Upper Legs,Barbell
+1281,Stability Ball Lat Stretch,Back,Exercise Ball
+1282,Stability Ball Back Extension with Rotation,Back,Exercise Ball
+1283,Medicine Ball Decline One-Arm Overhead Throw,Abs,
+1284,Barbell Split Clean,Upper Legs,Barbell
+1285,Medicine Ball Chest Push from Stance,Chest,
+1286,Depth Jump to Tuck Jump,Upper Legs,
+1287,Stability Ball Head Tilt,Abs,Exercise Ball
+1288,Staggered Stance Box Jump,Upper Legs,
+1289,Stability Ball Side Stretch,Abs,Exercise Ball
+1290,Medicine Ball Box Jump,Upper Legs,
+1291,Stability Ball Back Stretch,Back,Exercise Ball
+1292,Stability Ball Half Moon Stretch,Abs,Exercise Ball
