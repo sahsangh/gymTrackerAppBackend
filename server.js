@@ -26,10 +26,17 @@ const workoutSplitSchema = new mongoose.Schema({
     exercises: [Number],
 });
 
+const exerciseLogSchema = new mongoose.Schema({
+    exerciseId: { type: Number, required: true },
+    reps: { type: Number, required: true },
+    weight: { type: Number, required: true },
+    date: { type: Date, default: Date.now },
+});
+
 const Exercise = mongoose.model('Exercise', exerciseSchema, 'exerciseList');
 const WorkoutSplit = mongoose.model('WorkoutSplit', workoutSplitSchema, 'workoutSplits');
 
-// Route to get all exercises sorted by id
+// Get all exercises sorted by id
 app.get('/exercises', async (req, res) => {
     try {
         const exercises = await Exercise.find().sort({ id: 1 });
@@ -39,21 +46,19 @@ app.get('/exercises', async (req, res) => {
     }
 });
 
-// Route to create a new workout split with a custom splitId
+// Create a new workout split with a custom splitId
 app.post('/splits', async (req, res) => {
     console.log('Request body:', req.body);
     const { split_name, exercises } = req.body;
 
     try {
-        // Find the highest splitId and increment it for the new split
         const lastSplit = await WorkoutSplit.findOne().sort({ splitId: -1 });
-        const newSplitId = lastSplit ? lastSplit.splitId + 1 : 1;  // If no splits exist, start with splitId = 1
+        const newSplitId = lastSplit ? lastSplit.splitId + 1 : 1;
 
-        // Create a new split with the generated splitId
         const newSplit = new WorkoutSplit({ splitId: newSplitId, split_name, exercises });
         await newSplit.save();
 
-        res.status(201).json(newSplit);  // Respond with the newly created split
+        res.status(201).json(newSplit);
     } catch (err) {
         console.error('Error creating new split:', err);
         res.status(500).json({ error: err.message });
@@ -87,7 +92,7 @@ app.post('/splits/:splitId/add-exercise', async (req, res) => {
 });
 
 
-// Route to get all workout splits
+// Get all workout splits
 app.get('/splits', async (req, res) => {
     try {
         const splits = await WorkoutSplit.find();
