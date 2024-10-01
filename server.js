@@ -35,6 +35,7 @@ const exerciseLogSchema = new mongoose.Schema({
 
 const Exercise = mongoose.model('Exercise', exerciseSchema, 'exerciseList');
 const WorkoutSplit = mongoose.model('WorkoutSplit', workoutSplitSchema, 'workoutSplits');
+const ExerciseLog = mongoose.model('ExerciseLog', exerciseLogSchema, 'exerciseLogs');
 
 // Get all exercises sorted by id
 app.get('/exercises', async (req, res) => {
@@ -132,8 +133,35 @@ app.get('/exercises/:id', async (req, res) => {
 });
 
 
+app.post('/logs', async (req, res) => {
+    const { exerciseId, reps, weight, date } = req.body;
+    if (!exerciseId || !reps || !weight) {
+        return res.status(400).json({ error: 'Missing required fields' });
+    }
+    try {
+        const newLog = new ExerciseLog({
+            exerciseId,
+            reps,
+            weight,
+            date: date || Date.now()
+        });
+        await newLog.save();
+        res.status(201).json(newLog);
+    } catch (err) {
+        res.status(500).json({ error: err.message });
+    }
+});
 
 
+app.get('/logs/:exerciseId', async (req, res) => {
+    try {
+        const exerciseId = req.params.exerciseId;  // Get exerciseId from the route params
+        const logs = await ExerciseLog.find({ exerciseId: exerciseId }).sort({ date: -1 });  // Sort logs by date (newest first)
+        res.json(logs);  // Respond with the logs
+    } catch (err) {
+        res.status(500).json({ error: err.message });
+    }
+});
 
 app.listen(3000, () => {
     console.log('Server is running on port 3000');
