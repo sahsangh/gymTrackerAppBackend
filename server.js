@@ -115,6 +115,127 @@ app.get('/splits/:splitId', async (req, res) => {
     }
 });
 
+// Update exercises in a split (PATCH endpoint for partial updates)
+app.patch('/splits/:splitId/exercises', async (req, res) => {
+    const { add, remove } = req.body;
+    const { splitId } = req.params;
+
+    console.log('Patching Split ID:', splitId);
+    console.log('Adding exercises:', add);
+    console.log('Removing exercises:', remove);
+
+    try {
+        const split = await WorkoutSplit.findOne({ splitId: splitId });
+
+        if (!split) {
+            return res.status(404).json({ error: 'Split not found' });
+        }
+
+        let exercises = [...split.exercises];
+
+        // Remove exercises first to avoid duplicates
+        if (remove && remove.length > 0) {
+            exercises = exercises.filter(id => !remove.includes(id));
+        }
+
+        // Add new exercises
+        if (add && add.length > 0) {
+            // Only add exercises that aren't already in the list
+            const newExercises = add.filter(id => !exercises.includes(id));
+            exercises = [...exercises, ...newExercises];
+        }
+
+        const updatedSplit = await WorkoutSplit.findOneAndUpdate(
+            { splitId: splitId },
+            { exercises: exercises },
+            { new: true }
+        );
+
+        res.json({
+            split: updatedSplit,
+            changes: {
+                added: add || [],
+                removed: remove || [],
+                totalExercises: exercises.length
+            }
+        });
+    } catch (err) {
+        console.error('Error patching split:', err.message);
+        res.status(500).json({ error: err.message });
+    }
+});
+
+// Keep the PUT endpoint for backward compatibility
+app.put('/splits/:splitId', async (req, res) => {
+    const { exercises } = req.body;
+    const { splitId } = req.params;
+
+    console.log('Updating Split ID:', splitId);
+    console.log('New exercises:', exercises);
+
+    try {
+        const updatedSplit = await WorkoutSplit.findOneAndUpdate(
+            { splitId: splitId },
+            { exercises: exercises },
+            { new: true }
+        );
+
+        if (!updatedSplit) {
+            return res.status(404).json({ error: 'Split not found' });
+        }
+
+        res.json(updatedSplit);
+    } catch (err) {
+        console.error('Error updating split:', err.message);
+        res.status(500).json({ error: err.message });
+    }
+});
+
+// Update split name (PATCH endpoint)
+app.patch('/splits/:splitId', async (req, res) => {
+    const { split_name } = req.body;
+    const { splitId } = req.params;
+
+    console.log('Updating Split Name:', splitId, 'to:', split_name);
+
+    try {
+        const updatedSplit = await WorkoutSplit.findOneAndUpdate(
+            { splitId: splitId },
+            { split_name: split_name },
+            { new: true }
+        );
+
+        if (!updatedSplit) {
+            return res.status(404).json({ error: 'Split not found' });
+        }
+
+        res.json(updatedSplit);
+    } catch (err) {
+        console.error('Error updating split name:', err.message);
+        res.status(500).json({ error: err.message });
+    }
+});
+
+// Delete split (DELETE endpoint)
+app.delete('/splits/:splitId', async (req, res) => {
+    const { splitId } = req.params;
+
+    console.log('Deleting Split ID:', splitId);
+
+    try {
+        const deletedSplit = await WorkoutSplit.findOneAndDelete({ splitId: splitId });
+
+        if (!deletedSplit) {
+            return res.status(404).json({ error: 'Split not found' });
+        }
+
+        res.json({ message: 'Split deleted successfully', deletedSplit });
+    } catch (err) {
+        console.error('Error deleting split:', err.message);
+        res.status(500).json({ error: err.message });
+    }
+});
+
 app.get('/exercises/:id', async (req, res) => {
     try {
         const exerciseId = req.params.id;
